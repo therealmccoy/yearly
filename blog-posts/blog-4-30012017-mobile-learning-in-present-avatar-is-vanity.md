@@ -27,9 +27,9 @@ there are very few in a million who tend to dis-able all notification from their
 
         _**one way**, probably this could be solved is to let the user download the updated content for that module and then the app dis-connects automatically, and then when the time of submission comes, the app automatically connects to internet. at the time of submission, the student has already finished the course or the quota of learning and there is lesser harm from the swarms of notification descending in few seconds._
 
-### the true measure of success for a learning app or online learning platform is the number of courses that have been completed or lessons finished or certificates earned, it is about whether the student is being able to employ the knowledge earned in the right way in her life and that lead to an improvement in her life?
+#### the true measure of success for a learning app or online learning platform is the number of courses that have been completed or lessons finished or certificates earned, it is about whether the student is being able to employ the knowledge earned in the right way in her life and that lead to an improvement in her life?
 
-### measuring success of an online learning platform or an app in terms of number of courses finished or lessons completed is just like the school and colleges mentality, wherein the responsibility of the educational institution is over, the moment student graduates form the school. and that is why, **the schools and colleges of today are assembly line for producing degree-holders**, rather than institutions of improving people's life.
+#### measuring success of an online learning platform or an app in terms of number of courses finished or lessons completed is just like the school and colleges mentality, wherein the responsibility of the educational institution is over, the moment student graduates form the school. and that is why, **the schools and colleges of today are assembly line for producing degree-holders**, rather than institutions of improving people's life.
 
 surprisingly the desktop/laptop has become a more safer option for online learning now, where the distractions are still there but very limited and can be controlled in a very tight manner.
 
@@ -37,5 +37,5 @@ surprisingly the desktop/laptop has become a more safer option for online learni
 
 intrinsically there is so much of distraction, information garbage over-load, lack of attention and focus in every-day life that dreaming people would learn something constructively on a mobile device and shall be able to improve their life with it is beyond my comprehension.
 
-mobile learning at best, in its present avatar, could be a vanity!
+#mobile learning at best, in its present avatar, could be a vanity!
 
