@@ -1,3 +1,5 @@
+# Blog 4 - 30th Jan 2017 : Mobile learning in it's present avatar is vanity.
+
 internet access and mobile have been brought millions to a new form of learning.
 
 in the heydays, when the pioneers considered this approach, the choice was elementary. for hundred of millions of people, the mobile phone has been the first computer that they have bought.

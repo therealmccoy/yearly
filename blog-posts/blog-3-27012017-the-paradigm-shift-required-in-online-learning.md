@@ -1,3 +1,5 @@
+# Blog 3 - 27th Jan 2017 : The paradigm shift that is required in online learning
+
 The online learning platforms are doing the same mistake that schools and colleges have been doing since centuries. Trying to fit one standard curriculum for all.
 
 For students, enrolled in schools and colleges, they do not have any other option but to complete the course/curriculum in which they are enrolled because it has come with great cost and it is an entry barrier to anything they wish to do further in life.

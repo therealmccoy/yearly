@@ -1,3 +1,5 @@
+# Blog 1 - 27th Jan 2017 : Which problem to solve?
+
 There are many startups doing great and important work, and by this I am talking about my own country, India.
 
 To make the decision to do a startup is actually very easy.All the successful startups, started with solving a problem which the founders themselves faced or they felt passionately about, so much that they were willing to bet their life on that.
