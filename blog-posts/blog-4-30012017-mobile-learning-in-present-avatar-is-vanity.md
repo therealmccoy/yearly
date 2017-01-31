@@ -41,3 +41,25 @@ intrinsically there is so much of distraction, information garbage over-load, la
 
 #mobile learning at best, in its present avatar, could be a vanity!
 
+
+###**APPENDIX**
+
+1. Leave Your Laptops at the Door to My Classroom : https://www.nytimes.com/2017/01/02/opinion/leave-your-laptops-at-the-door-to-my-classroom.html
+
+2. Momentary interruptions can derail the train of thought : https://www.ncbi.nlm.nih.gov/pubmed/23294345
+
+3. The Impact of Computer Usage on Academic Performance: Evidence from a Randomized Trial at the United States Military
+Academy : http://seii.mit.edu/wp-content/uploads/2016/05/SEII-Discussion-Paper-2016.02-Payne-Carter-Greenberg-and-Walker-2.pdf
+
+4. Why Using Pen And Paper, Not Laptops, Boosts Memory: Writing Notes Helps Recall Concepts, Ability To Understand : 
+    http://www.medicaldaily.com/why-using-pen-and-paper-not-laptops-boosts-memory-writing-notes-helps-recall-concepts-ability-268770
+
+5. Momentary interruptions can derail the train of thought. : http://psycnet.apa.org/index.cfm?fa=buy.optionToBuy&id=2013-00033-001
+
+6. Media multitaskers pay mental price, Stanford study shows : http://news.stanford.edu/2009/08/24/multitask-research-study-082409/
+
+7. Read This Story Without Distraction (Can You?) : https://www.nytimes.com/2016/05/01/fashion/monotasking-drop-everything-and-read-this-story.html
+
+8. Neurotics Can't Focus: An in situ Study of Online Multitasking in the Workplace : http://www.ics.uci.edu/~gmark/Home_page/Research_files/CHI%2016%20Multitasking%20and%20Focus.pdf
+
+9. Web Browsing in Class = Lower Grades : https://www.insidehighered.com/digital-learning/article/2017/01/30/study-finds-non-academic-web-browsing-hurts-students-academic
