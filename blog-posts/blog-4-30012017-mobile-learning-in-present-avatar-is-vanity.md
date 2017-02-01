@@ -63,3 +63,5 @@ Academy : http://seii.mit.edu/wp-content/uploads/2016/05/SEII-Discussion-Paper-2
 8. Neurotics Can't Focus: An in situ Study of Online Multitasking in the Workplace : http://www.ics.uci.edu/~gmark/Home_page/Research_files/CHI%2016%20Multitasking%20and%20Focus.pdf
 
 9. Web Browsing in Class = Lower Grades : https://www.insidehighered.com/digital-learning/article/2017/01/30/study-finds-non-academic-web-browsing-hurts-students-academic
+
+10. Logged In and Zoned Out: How Laptop Internet Use Relates to Classroom Learning : http://journals.sagepub.com/doi/pdf/10.1177/0956797616677314
