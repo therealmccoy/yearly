@@ -44,3 +44,12 @@ One way in which online learning learning can be improved is by trying new pedag
 _For eg: It is always easier to date a stranger if someone can make an introduction of yours to that person. Ah!
 
 >At Yearly, we believe in **Student First!**
+
+********************************************************************************************************************************************
+/*Added on 9th Feb 2016 at 0320 hrs*/
+
+A student who is studying computer science for her masters, wants to learn Spanish and we start teaching her in the same manner like we do in traditional teaching, like "A" for "apple" and so and so forth. Well, it is exciting to know what is an "apple" is in Spanish, since there is hardly any connect between an "English Apple" and a "Spanish Apple", which she can make, there is nothing else that she can do than to memorise the stuff and may be console herself that, she is actually indeed learning Spanish.
+
+>Also, what we are trying to tell her that whatever she has learnt in last may be 20 odd years, is use-less, if she wants to learn a new language and she will have to start with the same centuries old process, again!
+
+**What if she could learn Spanish with Computer Science?**
