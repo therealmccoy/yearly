@@ -53,3 +53,10 @@ A student who is studying computer science for her masters, wants to learn Spani
 >Also, what we are trying to tell her that whatever she has learnt in last may be 20 odd years, is use-less, if she wants to learn a new language and she will have to start with the same centuries old process, again!
 
 **What if she could learn Spanish with Computer Science?**
+
+*********************************************************************************************************************************************
+
+/*Articles on need for Pedagogic approach to language learning*/
+
+1.How EdTech Entrepreneurs Seek To Enhance Language Learning  [link](https://www.forbes.com/sites/barbarakurshan/2017/02/27/how-edtech-entrepreneurs-seek-to-enhance-language-learning/#2f0a7cd3b40c)
+# Added on 28th Feb 2017
